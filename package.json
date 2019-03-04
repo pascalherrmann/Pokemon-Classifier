@@ -1,25 +1,25 @@
 {
-  "name": "Pokemon-Classifier",
-  "version": "1.0.0",
-  "main": "buildModel.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/pascalherrmann/Pokemon-Classifier.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/pascalherrmann/Pokemon-Classifier/issues"
-  },
-  "homepage": "https://github.com/pascalherrmann/Pokemon-Classifier#readme",
-  "dependencies": {
-    "@tensorflow/tfjs-node": "^0.3.1",
-    "jpeg-js": "^0.3.4"
-  },
-  "devDependencies": {},
-  "description": ""
+	"name": "Pokemon-Classifier",
+	"version": "1.0.0",
+	"main": "buildModel.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/pascalherrmann/Pokemon-Classifier.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/pascalherrmann/Pokemon-Classifier/issues"
+	},
+	"homepage": "https://github.com/pascalherrmann/Pokemon-Classifier#readme",
+	"dependencies": {
+		"@tensorflow/tfjs-node": "^0.3.1",
+		"jpeg-js": "^0.3.4"
+	},
+	"devDependencies": {},
+	"description": ""
 }
