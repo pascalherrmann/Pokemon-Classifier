@@ -1,3 +1,11 @@
+# Pokemon Classifier
+
+- built with TensorFlow.js
+- test accuracy: 85%
+- recognizes 50 Pokémon!
+
+![Demo GIF](demo.gif)
+
 ##### Setup dependencies
 
 - run `npm install`
